@@ -1,1 +1,44 @@
-# milanroy4509.github.io
+# Milan Roy – Mechanical Engineering Portfolio
+
+Mechanical Engineering graduate with strong interests in:
+- Finite Element Analysis (FEA)
+- Computational Fluid Dynamics (CFD)
+- Mechanical design and simulation
+- Analytical engineering problem-solving
+
+---
+
+## 📁 Featured Projects
+
+### 🔹 Mobile Healthcare Robot (SolidWorks & FEA)
+Structural design and FEA of a mobile healthcare robot, focusing on stiffness,
+load resistance, and manufacturability.  
+➡️ [View Project](https://github.com/yourusername/mobile-healthcare-robot-fea)
+
+---
+
+### 🔹 CFD & FEA Pipe Flow Study
+CFD and structural analysis of flow through a 180° curved pipe using ANSYS Fluent
+and Mechanical.  
+➡️ [View Project](https://github.com/yourusername/cfd-fea-pipe-flow-study)
+
+---
+
+### 🔹 Final Year Thesis – Chip Scale Package FEA
+Thermo-mechanical finite element modelling of chip scale packages with internal
+voids.  
+➡️ [View Project](https://github.com/yourusername/chip-scale-package-fea)
+
+---
+
+## 📄 Full Portfolio
+➡️ [Download PDF Portfolio](link-to-your-uploaded-pdf)
+
+---
+
+## 🛠 Tools & Skills
+- SolidWorks
+- ANSYS Fluent & Mechanical
+- Finite Element Analysis
+- CFD
+- Engineering simulation & reporting
