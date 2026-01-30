@@ -13,7 +13,7 @@ Mechanical Engineering graduate with strong interests in:
 ### 🔹 Mobile Healthcare Robot (SolidWorks & FEA)
 Structural design and FEA of a mobile healthcare robot, focusing on stiffness,
 load resistance, and manufacturability.  
-➡️ [View Project](https://github.com/yourusername/mobile-healthcare-robot-fea)
+➡️ [View Project](https://github.com/milanroy4509/Mobile-Healthcare-Robot-SolidWorks-FEA)
 
 ---
 
