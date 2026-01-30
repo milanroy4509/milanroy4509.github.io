@@ -26,7 +26,7 @@ and Mechanical.
 
 ---
 
-### 🔹 Final Year Thesis – Chip Scale Package FEA
+### 🔹 Capstone Project – Chip Scale Package FEA
 Thermo-mechanical finite element modelling of chip scale packages with internal
 voids.  
 ➡️ [View Project](https://github.com/milanroy4509/Finite-Element-Modelling-of-Chip-Scale-Packages)
