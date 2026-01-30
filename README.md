@@ -1,6 +1,8 @@
 # Milan Roy – Mechanical Engineering Portfolio
 
 Mechanical Engineering graduate with strong interests in:
+
+- Computer-Aided Design (CAD)
 - Finite Element Analysis (FEA)
 - Computational Fluid Dynamics (CFD)
 - Mechanical design and simulation
