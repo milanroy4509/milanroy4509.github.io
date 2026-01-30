@@ -31,11 +31,6 @@ voids.
 
 ---
 
-## 📄 Full Portfolio
-➡️ [Download PDF Portfolio](link-to-your-uploaded-pdf)
-
----
-
 ## 🛠 Tools & Skills
 - SolidWorks
 - ANSYS Fluent & Mechanical
