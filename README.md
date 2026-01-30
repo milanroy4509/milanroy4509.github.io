@@ -12,21 +12,21 @@ Mechanical Engineering graduate with strong interests in:
 
 ## 📁 Featured Projects
 
-### 🔹 Mobile Healthcare Robot (SolidWorks & FEA)
+### 🔹 Mobile Healthcare Robot (CAD & FEA)
 Structural design and FEA of a mobile healthcare robot, focusing on stiffness,
 load resistance, and manufacturability.  
 ➡️ [View Project](https://github.com/milanroy4509/Mobile-Healthcare-Robot-SolidWorks-FEA)
 
 ---
 
-### 🔹 CFD & FEA Pipe Flow Study
+### 🔹 Pipe Flow Study (CAD, CFD & FEA)
 CFD and structural analysis of flow through a 180° curved pipe using ANSYS Fluent
 and Mechanical.  
 ➡️ [View Project](https://github.com/milanroy4509/CFD-FEA-Pipe-Flow-Study)
 
 ---
 
-### 🔹 Capstone Project – Chip Scale Package FEA
+### 🔹 Capstone Project – Thermo-mechanical Analysis of Chip Scale Packages (CAD & FEA)
 Thermo-mechanical finite element modelling of chip scale packages with internal
 voids.  
 ➡️ [View Project](https://github.com/milanroy4509/Finite-Element-Modelling-of-Chip-Scale-Packages)
