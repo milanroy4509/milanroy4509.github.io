@@ -20,7 +20,7 @@ load resistance, and manufacturability.
 ### 🔹 CFD & FEA Pipe Flow Study
 CFD and structural analysis of flow through a 180° curved pipe using ANSYS Fluent
 and Mechanical.  
-➡️ [View Project](https://github.com/yourusername/cfd-fea-pipe-flow-study)
+➡️ [View Project](https://github.com/milanroy4509/CFD-FEA-Pipe-Flow-Study)
 
 ---
 
